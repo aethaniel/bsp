@@ -13,8 +13,10 @@ As the SAM E70 product is a superset of the S70 series, the SAM E70 Xplained eva
 
 Watch a video on Instruction Tracing and Live Code Coverage/Code Profiling on Microchip's SAME70 Xplained board using SEGGER’s J-Trace PRO Trace Probe and SEGGER's Ozone Debugger [here](http://www.youtube.com/watch?v=wHc0x_IkMmQ&t=129s).
 
+<!-- yaml
 ---
 board:
   architecture: arm
   part: SAME70Q21B
 ---
+-->

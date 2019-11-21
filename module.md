@@ -1,17 +1,13 @@
-transclude base: .
-
 # Harmony 3 BSP module
 
 This module contains the definitions of all development kits (A.K.A boards) supported by Harmony 3.
 
-{{boards/pic32mk_gp_db/readme.md}}
+- [PIC32MK GP Development Kit](boards/pic32mk_gp_db/readme.md)
+- [SAM E70 Xplained](boards/sam_e70_xpld/readme.md)
+- [SAM 9X60 Evaluation Kit](boards/sam_9x60_ek/readme.md)
+- [SAM A5D2 Xplained Ultra](boards/sam_a5d2_xult/readme.md)
 
-{{boards/sam_e70_xpld/readme.md}}
-
-{{boards/sam_9x60_ek/readme.md}}
-
-{{boards/sam_a5d2_xult/readme.md}}
-
+<!-- yaml
 ---
 module:
   name: "BSP"
@@ -183,3 +179,4 @@ module:
       processor: "ATSAMV71Q21B"
       config: "sam_v71_xult"
 ---
+-->

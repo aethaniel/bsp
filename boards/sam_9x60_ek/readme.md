@@ -7,8 +7,10 @@ Connectors and expansion headers allows for easy customization and quick access 
 The kit is supported by mainline Linux distribution as well as bare metal software frameworks and RTOS allowing you to easily get started with your development.
 The kit includes an on-board Embedded Debugger, eliminating the need for external tools to program or debug.
 
+<!-- yaml
 ---
 board:
   architecture: arm
   part: SAM9X60
 ---
+-->
